@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Lakshya Gupta Portfolio
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+https://www.linkedin.com/in/lakshya-gupta-2004/
